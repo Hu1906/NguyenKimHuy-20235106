@@ -1,3 +1,5 @@
+package JavaBasic;
+
 import javax.swing.JOptionPane;
 
 public class ChoosingOption {

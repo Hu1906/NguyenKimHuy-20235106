@@ -1,4 +1,4 @@
-//Example 3: HelloNameDialog.java
+package JavaBasic;//Example 3: HelloNameDialog.java
 
 import javax.swing.JOptionPane;
 

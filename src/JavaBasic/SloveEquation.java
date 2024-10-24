@@ -1,4 +1,4 @@
-//Example 6: Write a program to solve
+package JavaBasic;//Example 6: Write a program to solve
 
 import javax.swing.JOptionPane;
 

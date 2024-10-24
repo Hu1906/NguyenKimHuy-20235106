@@ -1,4 +1,4 @@
-// Example 5: Write a program to calculate sum, difference,
+package JavaBasic;// Example 5: Write a program to calculate sum, difference,
 // product, and quotient of 2 double numbers which are entered by users.
 
 import javax.swing.JOptionPane;

@@ -1,4 +1,4 @@
-//Example 2: FirstDialog.java
+package JavaBasic;//Example 2: FirstDialog.java
 
 import javax.swing.JOptionPane;
 
